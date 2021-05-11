@@ -1,6 +1,5 @@
 // Creare un array di oggetti:
 // Ogni oggetto descriverà una bici da corsa con le seguenti proprietà: nome e peso.
-
 var bicidacorsa = [ {
   nome: "Bici d'epoca",
   peso: 15
@@ -24,7 +23,6 @@ var bicidacorsa = [ {
 ];
 
 // Stampare a schermo la bici con peso minore.
-
 var bicileggera = bicidacorsa[0];
 
 for (var i = 0; i < bicidacorsa.length; i++) {
