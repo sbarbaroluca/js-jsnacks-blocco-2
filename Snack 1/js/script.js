@@ -23,6 +23,7 @@ var bicidacorsa = [ {
 ];
 
 // Stampare a schermo la bici con peso minore.
+
 var bicileggera = bicidacorsa[0];
 
 for (var i = 0; i < bicidacorsa.length; i++) {

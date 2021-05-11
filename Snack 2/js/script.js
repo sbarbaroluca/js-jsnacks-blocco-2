@@ -34,6 +34,7 @@ var squadreCampionato = [{
   }
 ];
 
+
 var nuovoArray = [];
 
 for (var i = 0; i < squadreCampionato.length; i++) {

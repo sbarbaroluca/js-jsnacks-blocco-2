@@ -12,5 +12,4 @@ function numericompresi (arr, min, max) {
 
 var numeri = [];
 numericompresi (numeri, 1, 50);
-
 console.log(numeri);
